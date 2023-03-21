@@ -27,5 +27,5 @@ public class Reverse_oneWord {
 
 					String str5 = str3.replace("Hello", str4);
 					
-					System.out.println("");
+					System.out.println(str5);
 }}}}
